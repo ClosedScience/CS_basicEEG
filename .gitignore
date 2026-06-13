@@ -1,17 +1,8 @@
 # Ignore data
-data/
+01_Data/
+script/
 
 # macOS files
 .DS_Store
 ._*
 ~*
-
-
-
-
-# Optional: keep Python/cache and editor files out of git
-__pycache__/
-*.pyc
-.vscode/
-.idea/
-*.pdf
